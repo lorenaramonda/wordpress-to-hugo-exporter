@@ -1,0 +1,7 @@
+{
+    "name": "SchumacherFM/wordpress-to-hugo-exporter",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
